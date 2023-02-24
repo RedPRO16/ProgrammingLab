@@ -1,6 +1,11 @@
-### Write a statement that prints **`Hello world`** to the console, but this time also write the **`main method`** yourself 
-#### The output should match exactly. Case sensitivity is important
+### Write a **`main method`** and a print statement to display your name as the following format:
 
-Remember: Code statements must be written inside of the main method
+```
+last name, first name
+```
+
+#### Solve the above as if your name was **`Alan Turing`**
+
+**Note:** If you use any other name value the test will fail.
 
 Main topics: main method, print statement
